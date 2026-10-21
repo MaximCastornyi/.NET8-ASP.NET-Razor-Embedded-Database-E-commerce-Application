@@ -1,0 +1,1227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\users\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\users\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\users\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\users\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\users\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\users\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\settings\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\settings\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\products\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\products\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\orders\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\orders\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\orders\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\orders\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\menus\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\menus\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\menus\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\menus\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\menus\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\menus\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\coupons\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\coupons\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\coupons\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\coupons\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\coupons\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\coupons\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\coupons\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\coupons\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\coupons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\coupons\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\coupons\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\coupons\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\comments\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\comments\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\comments\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\comments\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\comments\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\comments\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\comments\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\comments\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\comments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\comments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\banners\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\banners\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\banners\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\banners\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\banners\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\banners\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\banners\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\banners\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\banners\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\banners\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\settings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\banners\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\banners\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\menus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\menus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\banners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\banners\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\models\\db\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\models\\db\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\menus\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\menus\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\menus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\menus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\menus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\menus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\orders\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\menus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\menus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\user\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\user\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\user\\orders\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\user\\orders\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\user\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\user\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\models\\db\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\models\\db\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\user\\orders\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\user\\orders\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\user\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\user\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\coupons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\coupons\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\coupons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\coupons\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\admin\\coupons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\admin\\coupons\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\checkout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\checkout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|c:\\users\\netsd\\onedrive\\desktop\\asp\\onlineshoprazorsn\\onlineshoprazor\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFF552B-509D-11E0-2005-E8888371E254}|OnlineShopRazor\\OnlineShopRazor.csproj|solutionrelative:onlineshoprazor\\pages\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Settings\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Settings\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Settings\\Index.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Settings\\Index.cshtml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:27:31.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Users\\Create.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T10:36:11.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Users\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Users\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Users\\Create.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Users\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T10:38:00.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Users\\Delete.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Users\\Delete.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAQwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T10:39:20.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Users\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Users\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Users\\Delete.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Users\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T10:41:33.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Users\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Users\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Users\\Details.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Users\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T10:43:35.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Users\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Users\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Users\\Edit.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Users\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAywA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T10:44:28.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:15:28.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Products\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Products\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Products\\Details.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Products\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:15:23.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Products\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Products\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Products\\Delete.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Products\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:15:18.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Orders\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Orders\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Orders\\Edit.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Orders\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:15:01.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Orders\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Orders\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Orders\\Delete.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Orders\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:14:56.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Coupons\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Coupons\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Coupons\\Edit.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Coupons\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:14:26.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Coupons\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Coupons\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Coupons\\Details.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Coupons\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:14:15.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Menus\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Menus\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Menus\\Create.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Menus\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:03:51.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Products\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Products\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Products\\Create.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Products\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T10:41:01.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Coupons\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Coupons\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Coupons\\Delete.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Coupons\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T06:46:47.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Menus\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Menus\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Menus\\Delete.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Menus\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T10:53:57.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Menus\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Menus\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Menus\\Edit.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Menus\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T10:54:34.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Coupons\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Coupons\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Coupons\\Create.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Coupons\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T09:25:14.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Comments\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Comments\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Comments\\Edit.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Comments\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:13:53.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Comments\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Comments\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Comments\\Details.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Comments\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:13:50.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Comments\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Comments\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Comments\\Delete.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Comments\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:13:47.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Coupons\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Coupons\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Coupons\\Delete.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Coupons\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T06:46:52.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Coupons\\Details.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Coupons\\Details.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Coupons\\Details.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Coupons\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T06:48:01.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Comments\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Comments\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Comments\\Create.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Comments\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:13:44.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Banners\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Banners\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Banners\\Edit.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Banners\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:13:20.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Banners\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Banners\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Banners\\Details.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Banners\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:13:14.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Banners\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Banners\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Banners\\Delete.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Banners\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:13:07.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Banners\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Banners\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Banners\\Delete.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Banners\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T12:13:03.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Banners\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Banners\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Banners\\Create.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Banners\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T12:12:56.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Banners\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Banners\\Create.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Banners\\Create.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Banners\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T12:11:42.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Comments\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Comments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Comments\\Create.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Comments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T06:48:24.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T11:59:34.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\_ViewStart.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T11:59:08.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T06:40:03.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Settings\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Settings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Settings\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Settings\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T11:26:58.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Banners\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Banners\\Index.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Banners\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Banners\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T11:58:51.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Index.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:55:53.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Menus\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Menus\\Index.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Menus\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Menus\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T10:53:47.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Users\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Users\\Index.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T10:39:34.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Program.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Program.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAzwCQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:42:57.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T06:39:53.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Products\\Create.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T10:39:04.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Models\\Db\\Setting.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Models\\Db\\Setting.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Models\\Db\\Setting.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Models\\Db\\Setting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T11:24:35.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Users\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Users\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Users\\Index.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Users\\Index.cshtml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T10:45:42.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Menus\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Menus\\Create.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Menus\\Create.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Menus\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T11:02:23.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Orders\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Orders\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Orders\\Delete.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Orders\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T10:51:33.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Orders\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Orders\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T10:51:43.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Menus\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Menus\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Menus\\Index.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Menus\\Index.cshtml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T10:54:48.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Menus\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Menus\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Menus\\Edit.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Menus\\Edit.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAQwKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T10:53:29.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Menus\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Menus\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Menus\\Delete.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Menus\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T10:53:06.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Orders\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T10:51:48.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Users\\Edit.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Users\\Edit.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T10:39:30.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Users\\Details.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Users\\Details.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T10:39:25.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\User\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\User\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T10:22:14.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\User\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\User\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\User\\Index.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\User\\Index.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAwwBIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T10:22:43.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Models\\Db\\User.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Models\\Db\\User.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Models\\Db\\User.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Models\\Db\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T09:50:18.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\User\\Orders\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\User\\Orders\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\User\\Orders\\Index.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\User\\Orders\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T09:26:04.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\User\\Orders\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\User\\Orders\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\User\\Orders\\Details.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\User\\Orders\\Details.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T09:24:49.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\User\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\User\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\User\\Orders\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\User\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T09:22:01.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\User\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\User\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\User\\Orders\\Details.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\User\\Orders\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T09:21:50.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T09:25:03.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\appsettings.json",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\appsettings.json",
+              "RelativeToolTip": "OnlineShopRazor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-06T09:19:29.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Coupons\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Coupons\\Index.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Coupons\\Index.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Coupons\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T06:48:10.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Coupons\\Create.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Coupons\\Create.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Coupons\\Create.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Coupons\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T06:39:10.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Coupons\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Admin\\Coupons\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Admin\\Coupons\\Edit.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Admin\\Coupons\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T06:48:06.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Cart.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Cart.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T06:24:30.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Checkout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Checkout.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Checkout.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Checkout.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Checkout.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA/wBIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T06:23:19.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Cart.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Cart.cshtml.cs",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Cart.cshtml.cs",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Cart.cshtml.cs",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Cart.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T06:24:34.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "OnlineShopRazor\\Pages\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\netsd\\OneDrive\\Desktop\\ASP\\OnlineShopRazorSn\\OnlineShopRazor\\Pages\\Checkout.cshtml",
+              "RelativeToolTip": "OnlineShopRazor\\Pages\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T06:22:56.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

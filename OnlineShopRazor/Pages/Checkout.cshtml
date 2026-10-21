@@ -1,0 +1,182 @@
+﻿@page
+@model OnlineShopRazor.Pages.CheckoutModel
+
+
+<!--Checkout page section-->
+<div class="checkout_section" id="accordion" style="margin-top:200px;">
+    <div class="container">
+        <div class="returning_coupon_area">
+            <div class="row d-flex justify-content-end">
+               
+                <div class="col-lg-5 col-md-6">
+                    <div class="user-actions">
+                        <h3>
+                            <i class="fa fa-comment-o" aria-hidden="true"></i>
+                            Have a Coupon ?
+                            <a class="Returning" href="#" data-toggle="collapse" data-target="#checkout_coupon2" aria-expanded="true">Click here to enter your code</a>
+
+                        </h3>
+                        <div id="checkout_coupon2" class="collapse" data-parent="#accordion">
+                            <div class="checkout_info coupon_info">
+                                <form asp-page-handler="ApplyCouponCode" method="post">
+                                    <input placeholder="Coupon code" type="text" name="couponCode">
+                                    <button class="btn btn-primary" type="submit">Apply coupon</button>
+                                </form>
+                                <br />
+                                @if (TempData["message"]!=null)
+                                {
+                                    <div class="alert alert-danger" role="alert">
+                                        @TempData["message"]!
+                                    </div>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <form asp-page-handler="SubmitOrder" method="post">
+            <input type="hidden" asp-for="Order.CouponCode" />
+            <input type="hidden" asp-for="Order.Shipping" />
+
+          <div class="checkout_form">
+            <div class="row">
+                <div class="col-lg-7 col-md-6">
+                   
+                        <h3>Billing Details</h3>
+                        <div class="checkout_form_input">
+                            <label for="country">country <span>*</span></label>
+                            <select class="select_option" asp-for="Order.Country" id="country">
+                                <option value="UK">United Kingdom (UK)  </option>
+                                <option value="Algeria">Algeria</option>
+                                <option value="Afghanistan">Afghanistan</option>
+                                <option value="Ghana">Ghana</option>
+                                <option value="Albania">Albania</option>
+                                <option value="Bahrain">Bahrain</option>
+                                <option value="Colombia">Colombia</option>
+                                <option value="Dominican">Dominican Republic</option>
+                            </select>
+                        </div>
+                        <div class="checkout_form_input">
+                            <label>First Name <span>*</span></label>
+                            <input type="text" asp-for="Order.FirstName">
+                                <span asp-validation-for="Order.FirstName" class="text-danger"></span>
+                        </div>
+                        <div class="checkout_form_input">
+                            <label>Last Name  <span>*</span></label>
+                                <input type="text" asp-for="Order.LastName">
+                                <span asp-validation-for="Order.LastName" class="text-danger"></span>
+                        </div>
+                        <div class="checkout_form_input">
+                            <label>Company Name</label>
+                                <input type="text" asp-for="Order.CompanyName">
+                                <span asp-validation-for="Order.CompanyName" class="text-danger"></span>
+                        </div>
+                        <div class="checkout_form_input">
+                            <label>Address  <span>*</span></label>
+                                <input type="text" asp-for="Order.Address">
+                                <span asp-validation-for="Order.Address" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="checkout_form_input">
+                            <label>Town / City <span>*</span></label>
+                                <input type="text" asp-for="Order.City">
+                                <span asp-validation-for="Order.City" class="text-danger"></span>
+                        </div>
+                        <div class="checkout_form_input">
+                            <label> Email   <span>*</span></label>
+                                <input type="text" asp-for="Order.Email">
+                                <span asp-validation-for="Order.Email" class="text-danger"></span>
+                        </div>
+                        <div class="checkout_form_input">
+                            <label> Phone <span>*</span></label>
+                                <input type="text" asp-for="Order.Phone">
+                                <span asp-validation-for="Order.Phone" class="text-danger"></span>
+                        </div>
+                        <div class="checkout_form_input">
+                            <label> Comment  </label>
+                                <input type="text" asp-for="Order.Comment">
+                                <span asp-validation-for="Order.Comment" class="text-danger"></span>
+                        </div>
+                        
+                     
+                </div>
+                <div class="col-lg-5 col-md-6">
+                    <div class="order_table_right">
+                        
+                            <h3>Your order</h3>
+                            <div class="order_table table-responsive">
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th>Product</th>
+                                            <th class="text-right">Total</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var item in Model.ProductCart)
+                                        {
+                                            <tr>
+                                                <td> @item.Title   </td>
+                                                <td class="text-right"> $@item.RowSumPrice.GetValueOrDefault(0).ToString("F")  </td>
+                                            </tr>
+                                        }
+                                        
+                                         
+                                    </tbody>
+                                    <tfoot>
+                                        <tr>
+                                            <td>Cart Subtotal  </td>
+                                            <td class="text-right">
+                                                $@Model.ProductCart.Sum(x=>x.RowSumPrice).GetValueOrDefault(0).ToString("F")
+
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>Shipping  </td>
+                                            <td class="text-right">$@Model.Order.Shipping.GetValueOrDefault(0).ToString("F")</td>
+                                        </tr>
+                                        @if (!string.IsNullOrEmpty(Model.Order.CouponCode))
+                                        {
+                                            <tr>
+                                                <td>
+                                                    Discount - &nbsp;@Model.Order.CouponCode &nbsp; &nbsp;
+                                                    <a href="/Checkout">
+                                                        <i class="ion-android-close"></i>
+                                                    </a>
+                                                </td>
+                                                <td class="text-right">$@Model.Order.CouponDiscount.GetValueOrDefault(0).ToString("F")</td>
+                                            </tr>
+                                        }
+                                        
+
+                                        <tr class="order_total">
+                                            <th>Order Total</th>
+                                            @{
+                                                var orderTotal = Model.ProductCart.Sum(x => x.RowSumPrice) + Model.Order.Shipping;
+                                                if (Model.Order.CouponDiscount!=null)
+                                                {
+                                                    orderTotal = orderTotal- Model.Order.CouponDiscount;
+                                                }
+                                            }
+                                            <td class="text-right">
+                                                $@orderTotal.GetValueOrDefault(0).ToString("F")
+                                            </td>
+                                        </tr>
+                                    </tfoot>
+                                </table>
+                             
+                            </div>
+                            <div class="place_order_btn">
+                                 <input class="btn btn-dark btn-block" type="submit" value="place order" />
+                            </div>
+
+                         
+                    </div>
+                </div>
+            </div>
+        </div>
+        </form>
+    </div>
+</div>
+<!--Checkout page section end-->

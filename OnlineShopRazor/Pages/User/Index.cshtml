@@ -1,0 +1,36 @@
+@page
+@model OnlineShopRazor.Pages.User.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+ 
+
+<div  class="container" style="margin-top:200px">
+    
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.UserInfo.Email)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UserInfo.Email)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.UserInfo.FullName)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UserInfo.FullName)
+        </dd>
+         
+        
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.UserInfo.RegisterDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UserInfo.RegisterDate)
+        </dd>
+        
+    </dl>
+</div>
+ 

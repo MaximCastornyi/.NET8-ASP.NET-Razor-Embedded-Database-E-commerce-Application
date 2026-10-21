@@ -1,0 +1,248 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EntryPointFilePath = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OnlineShopRazor
+build_property.RootNamespace = OnlineShopRazor
+build_property.ProjectDir = C:\Users\netsd\OneDrive\Desktop\ASP\OnlineShopRazorSn\OnlineShopRazor\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\netsd\OneDrive\Desktop\ASP\OnlineShopRazorSn\OnlineShopRazor
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Banners/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmFubmVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Banners/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmFubmVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Banners/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmFubmVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Banners/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmFubmVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Banners/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmFubmVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Comments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29tbWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Comments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29tbWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Comments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29tbWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Comments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29tbWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Comments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ29tbWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Coupons/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ291cG9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Coupons/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ291cG9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Coupons/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ291cG9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Coupons/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ291cG9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Coupons/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ291cG9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Menus/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWVudXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Menus/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWVudXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Menus/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWVudXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Menus/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWVudXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Orders/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cT3JkZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Orders/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cT3JkZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cT3JkZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Products/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Products/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Products/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Settings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cU2V0dGluZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Admin/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/PassRecovery.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFzc1JlY292ZXJ5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/PaymentReturn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGF5bWVudFJldHVybi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/ProductDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzZXRQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Shared/_SmallCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9TbWFsbENhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Shop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/User/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxPcmRlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/User/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclxPcmRlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-u2dzfg94wy
+
+[C:/Users/netsd/OneDrive/Desktop/ASP/OnlineShopRazorSn/OnlineShopRazor/Pages/Shared/_DefaultLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9EZWZhdWx0TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-cx86bm9qjs
